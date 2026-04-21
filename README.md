@@ -5,5 +5,5 @@
 !git clone https://github.com/jotori08/penguins.git
 
 import pandas as pd
-df = pd.read_csv('/content/penguins_size.csv')
+df = pd.read_csv('/content/penguins/penguins_size.csv')
 ```
